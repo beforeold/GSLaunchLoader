@@ -1,0 +1,2 @@
+# GSLaunchLoader
+make appDidFinishLaunch simpler
